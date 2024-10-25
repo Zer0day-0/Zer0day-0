@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# 👋 Hello, I'm Zer0day-0!
+# 👋 Hello, I'm Zer0day!
 
 I’m a **computational biologist** with a strong focus on **population genomics**, disease informatics, and next-generation sequencing (NGS) data analysis. Currently, I am exploring genetic regulation in various complex diseases, specifically aiming to bridge gaps between genetic findings and public health in diverse populations.
 
